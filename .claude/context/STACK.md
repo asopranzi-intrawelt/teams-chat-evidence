@@ -1,5 +1,5 @@
 ---
-generated-from-commit: PENDING-FIRST-COMMIT
+generated-from-commit: 664c4f09bc5585ad32efe445f730ac08c53fa5ca
 generated-from-branch: main
 generated-date: 2026-11-02
 covers-paths:
@@ -11,7 +11,7 @@ covers-paths:
   - 'tools/teams_attachments.py'
   - 'tools/Remove-LocalEvidence.ps1'
   - 'requirements-evidence.txt'
-last-verified-commit: PENDING-FIRST-COMMIT
+last-verified-commit: 664c4f09bc5585ad32efe445f730ac08c53fa5ca
 ---
 
 # Stack applicativo

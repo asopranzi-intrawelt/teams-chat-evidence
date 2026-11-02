@@ -1,17 +1,17 @@
 # Snapshot del progetto
 
-Branch: `main`. Commit di riferimento: primo commit del repository pubblico, da registrare dopo la pubblicazione. Data: 2026-11-02. Provenienza del sistema: `.claude/template-reference.json`, adozione selettiva.
+Branch: `main`. Commit di riferimento: `664c4f0`, commit iniziale del repository pubblico. Data: 2026-11-02. Provenienza del sistema: `.claude/template-reference.json`, adozione selettiva.
 
 ## Stato delle schede
 
 | Scheda | Riferimento | Stato |
 |---|---|---|
-| STACK.md | PENDING-FIRST-COMMIT | Riscritta sul codice pubblicato |
-| design-and-security.md | PENDING-FIRST-COMMIT | Controlli, livello privato e limiti |
-| deployment.md | PENDING-FIRST-COMMIT | Uso locale manuale e prove sintetiche |
-| dev-testing.md | PENDING-FIRST-COMMIT | Prove sintetiche, compresa la rimozione della copia locale |
-| current-work.md | PENDING-FIRST-COMMIT | Pubblicazione e prossimi lavori |
-| roadmap.md | PENDING-FIRST-COMMIT | Priorità dello strumento |
+| STACK.md | 664c4f0 | Riscritta sul codice pubblicato |
+| design-and-security.md | 664c4f0 | Controlli, livello privato e limiti |
+| deployment.md | 664c4f0 | Uso locale manuale e prove sintetiche |
+| dev-testing.md | 664c4f0 | Prove sintetiche, compresa la rimozione della copia locale |
+| current-work.md | 664c4f0 | Pubblicazione e prossimi lavori |
+| roadmap.md | 664c4f0 | Priorità dello strumento |
 
 ## Punto di ripresa
 
